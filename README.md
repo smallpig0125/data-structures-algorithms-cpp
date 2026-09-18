@@ -227,7 +227,7 @@ data-structures-algorithms-cpp/
 ├── README.md
 │
 ├── docs/
-│   └── overview.jpg
+│   └── overview.png
 │
 └── src/
     ├── trees/
