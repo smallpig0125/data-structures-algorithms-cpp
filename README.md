@@ -2,7 +2,7 @@
 
 A collection of C++ implementations covering balanced trees, heap structures, hash-table collision strategies, graph traversal, shortest paths, connected components, and minimum spanning trees.
 
-![Project Overview](docs/overview.jpg)
+![Project Overview](docs/overview.png)
 
 ## Overview
 
